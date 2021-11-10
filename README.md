@@ -9,7 +9,7 @@ The initial purpose/thought behind this script was to be used with as a USB PenT
 The user is able to comment/uncomment functions that they wish to run against the machine. Some are dependant on one another and others require admin elevation so read the comments carefully!
 
 
-This is strictly meant for testing and education purposes!
+This is strictly meant for education purposes! I am not responsible for any misuse of this script!
 
 
 ## To Do:

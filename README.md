@@ -13,4 +13,4 @@ This is strictly meant for testing and education purposes!
 
 
 ## To Do:
-- Add SCP capability for uploading files securely to an available host
+- Add SCP capability for uploading files securely to an available host (https://mcpmag.com/articles/2018/07/19/transfer-files-via-scp-with-powershell.aspx)

@@ -10,3 +10,7 @@ The user is able to comment/uncomment functions that they wish to run against th
 
 
 This is strictly meant for testing and education purposes!
+
+
+## To Do:
+- Add SCP capability for uploading files securely to an available host

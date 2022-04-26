@@ -18,7 +18,6 @@ Legal Disclaimer:
     by a threat agent or unauthorized entity as a means to compromise the security, privacy, confidentiality, integrity, and/or availability of 
     systems and their associated resources. In this context the term "compromise" is henceforth understood as the leverage of exploitation of known or 
     unknown vulnerabilities present in said systems, including, but not limited to, the implementation of security controls, human- or electronically-enabled.
-
     The use of this code is only endorsed by the developers in those circumstances directly related to educational environments or authorized 
     penetration testing engagements whose declared purpose is that of finding and mitigating vulnerabilities in systems, limiting their exposure 
     to compromises and exploits employed by malicious agents as defined in their respective threat models.
